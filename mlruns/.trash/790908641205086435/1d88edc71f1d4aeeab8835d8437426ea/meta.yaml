@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/1d88edc71f1d4aeeab8835d8437426ea/artifacts
+deleted_time: 1746719432840
+end_time: 1746664181339
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: 1d88edc71f1d4aeeab8835d8437426ea
+run_name: XGBoost Classifier
+run_uuid: 1d88edc71f1d4aeeab8835d8437426ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746664180834
+status: 3
+tags: []
+user_id: michoc

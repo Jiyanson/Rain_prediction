@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/5272e90fb7764f42b4a0eb916bf21af8/artifacts
+deleted_time: 1746719432840
+end_time: 1746663840838
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: 5272e90fb7764f42b4a0eb916bf21af8
+run_name: Linear Regression
+run_uuid: 5272e90fb7764f42b4a0eb916bf21af8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746663819787
+status: 3
+tags: []
+user_id: michoc

@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/1bc58026c6f64e4a8634559b7f81d1d2/artifacts
+deleted_time: 1746719432840
+end_time: 1746663898529
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: 1bc58026c6f64e4a8634559b7f81d1d2
+run_name: Gradient Boosting
+run_uuid: 1bc58026c6f64e4a8634559b7f81d1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746663882591
+status: 3
+tags: []
+user_id: michoc

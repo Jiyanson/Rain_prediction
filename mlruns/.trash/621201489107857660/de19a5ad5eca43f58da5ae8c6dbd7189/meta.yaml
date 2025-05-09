@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/621201489107857660/de19a5ad5eca43f58da5ae8c6dbd7189/artifacts
+deleted_time: 1746799168422
+end_time: 1746793332832
+entry_point_name: ''
+experiment_id: '621201489107857660'
+lifecycle_stage: deleted
+run_id: de19a5ad5eca43f58da5ae8c6dbd7189
+run_name: glamorous-toad-188
+run_uuid: de19a5ad5eca43f58da5ae8c6dbd7189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746793178457
+status: 3
+tags: []
+user_id: michoc

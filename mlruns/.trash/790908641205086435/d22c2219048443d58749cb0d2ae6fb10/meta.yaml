@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/d22c2219048443d58749cb0d2ae6fb10/artifacts
+deleted_time: 1746719432840
+end_time: 1746664181345
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: d22c2219048443d58749cb0d2ae6fb10
+run_name: Classification_Models
+run_uuid: d22c2219048443d58749cb0d2ae6fb10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746664177221
+status: 3
+tags: []
+user_id: michoc

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/149907113417362881/6d31841344bb4763b879e589bb449df0/artifacts
+deleted_time: 1746805722841
+end_time: 1746805624016
+entry_point_name: ''
+experiment_id: '149907113417362881'
+lifecycle_stage: deleted
+run_id: 6d31841344bb4763b879e589bb449df0
+run_name: melodic-stoat-587
+run_uuid: 6d31841344bb4763b879e589bb449df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746805623922
+status: 4
+tags: []
+user_id: michoc

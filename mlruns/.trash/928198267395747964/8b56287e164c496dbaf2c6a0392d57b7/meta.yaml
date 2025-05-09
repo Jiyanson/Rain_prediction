@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/928198267395747964/8b56287e164c496dbaf2c6a0392d57b7/artifacts
+deleted_time: 1746731176360
+end_time: 1746730895739
+entry_point_name: ''
+experiment_id: '928198267395747964'
+lifecycle_stage: deleted
+run_id: 8b56287e164c496dbaf2c6a0392d57b7
+run_name: adventurous-ant-524
+run_uuid: 8b56287e164c496dbaf2c6a0392d57b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746730895586
+status: 4
+tags: []
+user_id: michoc

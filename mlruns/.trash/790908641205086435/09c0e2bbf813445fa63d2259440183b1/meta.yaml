@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/09c0e2bbf813445fa63d2259440183b1/artifacts
+deleted_time: 1746719432840
+end_time: 1746663945519
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: 09c0e2bbf813445fa63d2259440183b1
+run_name: LightGBM
+run_uuid: 09c0e2bbf813445fa63d2259440183b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746663926736
+status: 3
+tags: []
+user_id: michoc

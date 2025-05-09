@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/149907113417362881/1bb30290aaf145108a7367f069aa6a73/artifacts
+deleted_time: 1746806041196
+end_time: 1746805957145
+entry_point_name: ''
+experiment_id: '149907113417362881'
+lifecycle_stage: deleted
+run_id: 1bb30290aaf145108a7367f069aa6a73
+run_name: lyrical-snipe-901
+run_uuid: 1bb30290aaf145108a7367f069aa6a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746805956927
+status: 4
+tags: []
+user_id: michoc

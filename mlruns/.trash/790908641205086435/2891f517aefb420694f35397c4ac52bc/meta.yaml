@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/2891f517aefb420694f35397c4ac52bc/artifacts
+deleted_time: 1746719432840
+end_time: 1746663863638
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: 2891f517aefb420694f35397c4ac52bc
+run_name: Decision Tree
+run_uuid: 2891f517aefb420694f35397c4ac52bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746663840902
+status: 3
+tags: []
+user_id: michoc

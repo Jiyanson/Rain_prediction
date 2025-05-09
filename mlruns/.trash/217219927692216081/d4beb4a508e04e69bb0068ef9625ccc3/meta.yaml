@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/217219927692216081/d4beb4a508e04e69bb0068ef9625ccc3/artifacts
+deleted_time: 1746805584557
+end_time: 1746799922316
+entry_point_name: ''
+experiment_id: '217219927692216081'
+lifecycle_stage: deleted
+run_id: d4beb4a508e04e69bb0068ef9625ccc3
+run_name: handsome-colt-557
+run_uuid: d4beb4a508e04e69bb0068ef9625ccc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746799664332
+status: 3
+tags: []
+user_id: michoc

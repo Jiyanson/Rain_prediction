@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/224216274935563280
+creation_time: 1746761573619
+experiment_id: '224216274935563280'
+last_update_time: 1746792422797
+lifecycle_stage: deleted
+name: rain_pred
+tags: {}

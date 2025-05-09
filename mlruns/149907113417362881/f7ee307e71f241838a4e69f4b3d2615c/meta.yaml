@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/149907113417362881/f7ee307e71f241838a4e69f4b3d2615c/artifacts
+deleted_time: 1746805665322
+end_time: 1746805615484
+entry_point_name: ''
+experiment_id: '149907113417362881'
+lifecycle_stage: deleted
+run_id: f7ee307e71f241838a4e69f4b3d2615c
+run_name: adventurous-colt-779
+run_uuid: f7ee307e71f241838a4e69f4b3d2615c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746805615364
+status: 4
+tags: []
+user_id: michoc

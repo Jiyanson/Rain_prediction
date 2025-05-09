@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/427718040209488338/6c3d6a755f574df9a6215a23763e1a11/artifacts
+deleted_time: 1746806033772
+end_time: 1746805821887
+entry_point_name: ''
+experiment_id: '427718040209488338'
+lifecycle_stage: deleted
+run_id: 6c3d6a755f574df9a6215a23763e1a11
+run_name: vaunted-sloth-391
+run_uuid: 6c3d6a755f574df9a6215a23763e1a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746805804965
+status: 3
+tags: []
+user_id: michoc

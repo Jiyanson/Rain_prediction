@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/621201489107857660/27778a46576847169812a8ca23567d5a/artifacts
+deleted_time: 1746794676405
+end_time: null
+entry_point_name: ''
+experiment_id: '621201489107857660'
+lifecycle_stage: deleted
+run_id: 27778a46576847169812a8ca23567d5a
+run_name: popular-bird-988
+run_uuid: 27778a46576847169812a8ca23567d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746794342841
+status: 1
+tags: []
+user_id: michoc

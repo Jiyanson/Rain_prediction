@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224216274935563280/fc410c1e37a84999b01ad9549b60ce55/artifacts
+deleted_time: 1746792422797
+end_time: 1746762038439
+entry_point_name: ''
+experiment_id: '224216274935563280'
+lifecycle_stage: deleted
+run_id: fc410c1e37a84999b01ad9549b60ce55
+run_name: adorable-bee-116
+run_uuid: fc410c1e37a84999b01ad9549b60ce55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746761734562
+status: 3
+tags: []
+user_id: michoc

@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/155b2de0fc9d43549ad9fe3576096d03/artifacts
+deleted_time: 1746719432840
+end_time: 1746664180793
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: 155b2de0fc9d43549ad9fe3576096d03
+run_name: Random Forest Classifier
+run_uuid: 155b2de0fc9d43549ad9fe3576096d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746664177889
+status: 3
+tags: []
+user_id: michoc

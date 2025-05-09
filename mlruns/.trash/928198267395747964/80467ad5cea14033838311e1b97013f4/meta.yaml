@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/928198267395747964/80467ad5cea14033838311e1b97013f4/artifacts
+deleted_time: 1746739142761
+end_time: null
+entry_point_name: ''
+experiment_id: '928198267395747964'
+lifecycle_stage: deleted
+run_id: 80467ad5cea14033838311e1b97013f4
+run_name: languid-steed-806
+run_uuid: 80467ad5cea14033838311e1b97013f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746733328443
+status: 1
+tags: []
+user_id: michoc

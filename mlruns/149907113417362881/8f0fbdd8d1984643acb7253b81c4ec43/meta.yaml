@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/149907113417362881/8f0fbdd8d1984643acb7253b81c4ec43/artifacts
+end_time: 1746806076223
+entry_point_name: ''
+experiment_id: '149907113417362881'
+lifecycle_stage: active
+run_id: 8f0fbdd8d1984643acb7253b81c4ec43
+run_name: painted-dolphin-900
+run_uuid: 8f0fbdd8d1984643acb7253b81c4ec43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746805984326
+status: 3
+tags: []
+user_id: michoc

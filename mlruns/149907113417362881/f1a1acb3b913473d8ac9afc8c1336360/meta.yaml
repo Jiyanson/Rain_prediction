@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/149907113417362881/f1a1acb3b913473d8ac9afc8c1336360/artifacts
+deleted_time: 1746805853895
+end_time: 1746805723168
+entry_point_name: ''
+experiment_id: '149907113417362881'
+lifecycle_stage: deleted
+run_id: f1a1acb3b913473d8ac9afc8c1336360
+run_name: powerful-lynx-271
+run_uuid: f1a1acb3b913473d8ac9afc8c1336360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746805723087
+status: 4
+tags: []
+user_id: michoc

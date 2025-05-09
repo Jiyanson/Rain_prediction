@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/michoc/Desktop/weather/mlruns/790908641205086435/23f027ea1a7a4d7fa8ba20c26ac9a658/artifacts
+deleted_time: 1746719432840
+end_time: 1746664177839
+entry_point_name: ''
+experiment_id: '790908641205086435'
+lifecycle_stage: deleted
+run_id: 23f027ea1a7a4d7fa8ba20c26ac9a658
+run_name: Logistic Regression
+run_uuid: 23f027ea1a7a4d7fa8ba20c26ac9a658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746664177398
+status: 3
+tags: []
+user_id: michoc
